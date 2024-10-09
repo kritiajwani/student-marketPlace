@@ -1,12 +1,18 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #d0f1ef;
     margin: 0;
     padding: 20px;
 }
 
 header {
-    background-color: #4CAF50;
-    color: white;
+    color: rgb(18, 32, 72);
+    padding: 10px 0;
+    text-align: center;
+}
+
+main {
+    color: rgb(18, 32, 72);
     padding: 10px 0;
     text-align: center;
 }
